@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\shaba\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
